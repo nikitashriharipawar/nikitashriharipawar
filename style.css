@@ -1,0 +1,240 @@
+body{
+    height: auto;
+    width: 80%;
+    position: relative;
+    left:10%;
+    background-color:whitesmoke;
+}
+#h1{
+    color: rgb(4, 30, 107);
+    font-weight: bold;
+}
+#h2{
+    color: rgb(4, 30, 107);
+}
+#top{
+background-color:red;
+height: 70px;
+width:100%;
+
+}
+#bottom{
+    height: 650px;
+    width:100%;
+    color: rgb(4, 30, 107);
+    font-weight: bold;
+    font-family: Poppins;
+}
+#location{
+    color: rgb(4, 30, 107);
+}
+#text_1{
+    font-family: Poppins;
+    position: absolute;
+    float: right;
+    right: 100px;
+    top:0px;
+}
+#text_2{
+    font-family: Poppins;
+    position: absolute;
+    float: right;
+    right: 100px;
+    top:250px;
+}
+#p{
+    position: relative;
+    top: 0px;
+    left: 50px;
+}
+#left{
+    height: auto;
+    width: 35%;
+    position: absolute;
+    float: left;
+    left: 10px;
+    color: rgb(4, 30, 107);
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10 px;
+}
+#filter{
+    margin-left: 10px;
+}
+#right{
+    height: inherit;
+    width: 60%;
+    position: absolute;
+    float: right;
+    right: 0px;
+}
+#right_one{
+    width: 100%;
+    height:270px;
+    background-color: #ffffff ;
+   
+    border-radius: 10px;
+}
+#right_two{
+    width: 100%;
+    height:270px;
+    background-color: #ffffff;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+#right_three{
+    width: 100%;
+    height:100px;
+    
+    margin-top: 15px;
+    
+    border-radius: 10px;
+}
+img{
+    border-radius: 30px;
+}
+#ro_img{
+    position: relative;
+    top: 15px;
+    left: 25px;
+}
+#text_1{
+    position: absolute;
+    left: 30%;
+    top: 0%;
+}
+#text_2{
+    position: absolute;
+    left: 30%;
+    top: 43%;
+}
+#logo{
+    position: absolute;
+    left: 20%;
+    top: 10px;
+    background-color: whitesmoke;
+    width: 52px;
+  height: 50px;
+  border-radius: 50%;
+  
+}
+#h4{
+    width: 50px;
+  height: 0px;
+  font-family: Poppins;
+  font-size: 33px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0;
+  letter-spacing: normal;
+  text-align: center;
+  color: #eb2929;
+
+}
+#login{
+    height: inherit;
+    width: 30%;
+    background-color: red;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+#border_1{
+    border: none;
+  width: 80px;
+    height: 50px;
+    color: white;
+    position: absolute;
+    top: 10px;
+    background-color:red;
+}
+#border_2{
+    width: 150px;
+    height:50px;
+    position: absolute;
+    color: white;
+    top: 10px;
+    right: 90px;
+    border-radius: 10px;
+    background-color: red;
+   
+}
+#table{
+    
+   
+    position: absolute;
+    top: 90%;
+    left: 150px;
+}
+#one{
+    width: 10px;
+  height: 10px;
+  margin: 0 13px 0 0;
+  padding: 10.2px 13.5px 9.5px 14.3px;
+  opacity: 0.4;
+  border-radius: 7px;
+  border: solid 1px blue;
+  background-color:white;
+}
+#two{
+    width: 10px;
+  height: 10px;
+  margin: 10px 13px 0 10px;
+  padding: 10.2px 13.5px 9.5px 14.3px;
+  opacity: 0.4;
+  border-radius: 7px;
+  border: solid 1px blue;
+  background-color: grey;
+}
+#three{
+    width: 10px;
+  height: 10px;
+  margin: 0 13px 0 0;
+  padding: 10.2px 13.5px 9.5px 14.3px;
+  opacity: 0.4;
+  border-radius: 7px;
+  border: solid 1px blue;
+  background-color:white;
+}
+#four{
+    width: 10px;
+  height: 10px;
+  margin: 0 13px 0 0;
+  padding: 10.2px 13.5px 9.5px 14.3px;
+  opacity: 0.4;
+  border-radius: 7px;
+  border: solid 1px blue;
+  background-color:white;
+}
+#five{
+    width: 10px;
+  height: 10px;
+  margin: 0 13px 0 0;
+  padding: 10.2px 13.5px 9.5px 14.3px;
+  opacity: 0.4;
+  border-radius: 7px;
+  border: solid 1px blue;
+  background-color:white;
+}
+#six{
+    width: 10px;
+  height: 10px;
+  margin: 0 13px 0 0;
+  padding: 10.2px 13.5px 9.5px 14.3px;
+  opacity: 0.4;
+  border-radius: 7px;
+  border: solid 1px blue;
+  background-color:white;
+}
+#seven{
+    width: 10px;
+  height: 10px;
+  margin: 0 13px 0 0;
+  padding: 10.2px 13.5px 9.5px 14.3px;
+  opacity: 0.4;
+  border-radius: 7px;
+  border: solid 1px blue;
+  background-color:white;
+}
